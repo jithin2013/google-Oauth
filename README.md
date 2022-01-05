@@ -16,7 +16,8 @@
 # Steps to run
     clone the repo using git clone command
     use "npm i" to install the required node modules
-    use command "node . app.js" or "nodemon app.js" to run the project
+    use command "node . app.js" or "nodemon app.js" or "npm start" to run the project
+    use command "npm test"
 
 
 # Details of demo app
